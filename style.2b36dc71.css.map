@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,4BACE,eAAgB,CAChB,aACF,CAEA,yBACE,aAAc,CACd,eACF","file":"style.2b36dc71.css","sourceRoot":"..\\src","sourcesContent":[".field > *:not(:first-of-type) {\n  margin-top: 10px;\n  display: block;\n}\n\n.field:not(:first-child) {\n  display: block;\n  margin-top: 20px;\n}\n"]}
